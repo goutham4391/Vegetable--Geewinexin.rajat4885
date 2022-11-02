@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Nov 2022 13:22:18 at https://www.geewinexim.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.geewinexim.com/ -O1 "C:\Users\RAJAT SINGH\OneDrive\Desktop\Internship myknot\Day14\Web68\Site68" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:23:44	Error: 	"Not Found" (404) at link https://www.geewinexim.com/js/custom-rev-slider.js (from https://www.geewinexim.com/)
+13:25:53	Warning: 	Retry after error 409 (Conflict) at link https://www.geewinexim.com/contact.php (from https://www.geewinexim.com/)
+13:26:25	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/owl.video.play.png (from https://www.geewinexim.com/css/css-plugin-collections.css)
+13:26:25	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/fonts/flexslider-icon.eot (from https://www.geewinexim.com/css/css-plugin-collections.css)
+13:26:25	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/fonts/flexslider-icon.eot? (from https://www.geewinexim.com/css/css-plugin-collections.css)
+13:26:25	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/fonts/flexslider-icon.woff (from https://www.geewinexim.com/css/css-plugin-collections.css)
+13:26:25	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/fonts/flexslider-icon.ttf (from https://www.geewinexim.com/css/css-plugin-collections.css)
+13:26:25	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/fonts/flexslider-icon.svg (from https://www.geewinexim.com/css/css-plugin-collections.css)
+13:26:25	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/ytplayer/ytp-regular.eot (from https://www.geewinexim.com/css/css-plugin-collections.css)
+13:26:25	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/ytplayer/ytp-regular.ttf (from https://www.geewinexim.com/css/css-plugin-collections.css)
+13:26:25	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/ytplayer/raster.png (from https://www.geewinexim.com/css/css-plugin-collections.css)
+13:26:25	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/ytplayer/raster@2x.png (from https://www.geewinexim.com/css/css-plugin-collections.css)
+13:26:25	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/ytplayer/raster_dot.png (from https://www.geewinexim.com/css/css-plugin-collections.css)
+13:26:25	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/ytplayer/raster_dot@2x.png (from https://www.geewinexim.com/css/css-plugin-collections.css)
+13:26:25	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/bxslider/images/bx_loader.gif (from https://www.geewinexim.com/css/css-plugin-collections.css)
+13:26:25	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/bxslider/images/arrow-left.png (from https://www.geewinexim.com/css/css-plugin-collections.css)
+13:26:25	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/bxslider/images/arrow-right.png (from https://www.geewinexim.com/css/css-plugin-collections.css)
+13:26:29	Error: 	"Not Found" (404) at link https://www.geewinexim.com/images/shadow-overlay.png (from https://www.geewinexim.com/css/style-main.css)
+13:26:29	Error: 	"Not Found" (404) at link https://www.geewinexim.com/images/features-bg.jpg (from https://www.geewinexim.com/css/style-main.css)
+13:26:29	Warning: 	File not parsed, looks like binary: https://www.geewinexim.com/js/revolution-slider/css/openhand.cur
+13:26:29	Warning: 	File not parsed, looks like binary: https://www.geewinexim.com/js/revolution-slider/css/closedhand.cur
+13:26:42	Warning: 	Retry after error 409 (Conflict) at link https://www.geewinexim.com/contact.php (from https://www.geewinexim.com/)
+13:26:42	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/mdb.min.css (from https://www.geewinexim.com/price-details.php)
+13:26:42	Error: 	"Not Found" (404) at link https://www.geewinexim.com/js/mdb.min.js (from https://www.geewinexim.com/price-details.php)
+13:26:42	Error: 	"Not Found" (404) at link https://www.geewinexim.com/js/easyData-google-sheets.js (from https://www.geewinexim.com/price-details.php)
+13:26:54	Error: 	"Not Found" (404) at link https://www.geewinexim.com/css/.../fonts/flaticon-gardening/fonts/flaticon-gardening.svg?yk2zgy (from https://www.geewinexim.com/css/flaticon-gardening.css)
+13:26:54	Error: 	"Conflict" (409) after 2 retries at link https://www.geewinexim.com/contact.php (from https://www.geewinexim.com/)
+13:26:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.geewinexim.com/images/products/nut1.jpg (from https://www.geewinexim.com/nutmeg-nut.php)
+13:26:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.geewinexim.com/images/products/nut3.jpg (from https://www.geewinexim.com/nutmeg-nut.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 37 seconds : 780 links scanned, 752 files written (100897254 bytes overall) [99864464 bytes received at 360521 bytes/sec], 2416671 bytes transferred using HTTP compression in 86 files, ratio 29%, 28.2 requests per connection
+(23 errors, 6 warnings, 0 messages)

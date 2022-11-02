@@ -1,0 +1,347 @@
+
+
+/* Your custom css codes start here: */
+
+.wtsapp {
+    position: fixed;
+    bottom: 25px;
+    left: 25px;
+    z-index: 1;
+    transition: all 0.4s;
+}
+/*
+.wtsapp:target .hidme {
+    visibility: visible;
+    left: 30px;
+}
+*/
+
+.slider-title {
+    font-family: 'Lobster', cursive;
+    font-weight: 100;
+}
+
+.wtsicon {
+    background: #25d366;
+    padding: 13px 16px;
+    border-radius: 50%;
+    position: relative;;
+    float: left;
+    transition: all 0.4s;
+    cursor: pointer;
+}
+
+.wtsicon i {
+    color: white;
+    font-size: 2.5em;
+}
+
+.hidme {
+    position: relative;
+    float: left;
+    background: #ffffff;
+    padding: 0 15px;
+    left: 10px;
+    bottom: 5px;
+    z-index: 99;
+    transition: all 0.4s;
+}
+#msg {
+    visibility: hidden;
+}
+
+.hidme h4 { color: #25d366;  }
+
+.hidme::after
+{
+    content: '';
+    position: absolute;
+    bottom: 27px;
+    left: -7px;
+    width: 13px;
+    height: 13px;
+    background: white;
+    transform: rotate(45deg);
+    z-index: -1;
+    border: 1px solid #f5f5f5;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .02);
+}
+
+/* 404 page style */
+.font-11em { font-size: 11em; }
+
+
+.blue1 { color:#0e0f4d !important; }
+
+.bg-blue1 { background:#04488b !important; }
+
+
+
+.blue2 { color: #0095d9 !important; }
+
+.bg-blue2 {     background: #0095d9 !important; }
+
+
+
+.home { color: #EED9B2 !important; }
+
+.bg-home { background-color: #EED9B2 !important; }
+
+
+/* social media color style */
+
+.styled-icons.icon-dark li:nth-child(1) a {
+	background: #3C5A99;	
+}
+
+.styled-icons.icon-dark li:nth-child(2) a {
+	background: #1DA1F2;	
+}
+
+.styled-icons.icon-dark li:nth-child(3) a {
+	background: #FF0000;	
+}
+
+.styled-icons.icon-dark li:nth-child(4) a {
+	background: #DD4B39;	
+}
+
+.styled-icons.icon-dark li:nth-child(5) a {
+	background: #bc2a8d;	
+}
+
+.styled-icons.icon-dark li:nth-child(6) a {
+	background: #c8232c;	
+}
+
+
+
+
+
+
+.match-shadow { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.35), 0 6px 20px 0 rgba(0, 0, 0, 0.25); }
+
+
+
+.bordergreen { border: solid #739f02; }
+
+
+
+.btn1 { padding: 3px 10px;
+
+    border-radius: 0;
+
+    background-color: #808182; }
+
+
+
+.valign-middle { vertical-align: middle !important; }
+
+
+
+.content p { font-size: 13px;  }
+
+
+
+.icon-theme-colored.icon-sm  a {
+
+    width: 150px;
+
+    border-radius: 0;
+
+}
+
+
+
+.icon-box { transition: all 0.4s; cursor: pointer; }
+
+.icon-box:hover { background-color: #0095d930; }
+
+
+
+.widget .tags a {
+
+    color: #2e3192;
+
+    transition: all 0.4s;
+
+}
+
+.widget .tags a:hover {
+
+        color: #e3e3e3;
+
+    background-color: #2e3192;
+
+}
+
+
+
+.table-inverse th { background:#333; color:#fff; letter-spacing: 1px; }
+
+
+
+.form-bg { background:url(../images/front-page/form-bg.jpg) no-repeat;
+
+	background-size:cover;
+
+	background-attachment:fixed; }
+
+
+
+.row .block {
+
+    float: left;
+
+    width: 100%;
+
+    height: 150px;
+
+}
+
+
+
+.sub-a {
+
+    background: url(../images/bgSprite.png);
+
+    width: 105px;
+
+    height: 105px;
+
+    left: 0px;
+
+    right: 0;
+
+    margin: 0 auto;
+
+    background-position: -293px 10px;
+
+    display: block;
+
+    margin-top: 25px;
+
+    border-radius: 50%;
+
+    background-color: #0095D9!important;
+
+    position: relative;
+
+    text-decoration: none;
+
+    z-index: 1;
+
+    margin-left: 90px;
+
+}
+
+.vsnHrd {
+
+    font-size: 18px!important;
+
+    margin-bottom: 13px;
+
+    text-align: center;
+
+}
+
+.prod {
+
+    background-position: -293px 10px; }
+
+.comp {
+
+    background-position: -193px 6px; }
+
+.pack {
+
+    background-position: -590px 5px; }
+
+.timely {
+
+    background-position: -488px 9px; }
+
+.relibe {
+
+    background-position: -889px -87px; }
+
+.flex {
+
+    background-position: -691px 10px; }
+
+.person {
+
+    background-position: -789px -90px; }
+
+.clnt {
+
+    background-position: -396px 6px; }
+
+
+
+.reserch {
+
+     background-position: -189px -85px; }
+
+.home {
+
+     background-position: -384px -76px; }
+
+
+
+.hvr { transition:all 0.4s; }	
+
+
+
+.hvr:hover { background-color: #353535;
+
+    color: white; }
+
+.hvr:hover .vsnHrd {
+
+	color:#0095D9; }
+
+
+
+body
+
+{
+
+	overflow-x: hidden;
+
+}	
+
+
+
+@media (min-width: 300px) and (max-width: 770px)
+
+{
+
+	.table-inverse th
+
+	{
+
+		width:120px;
+
+	}
+
+	p
+
+	{
+
+		margin-top: 20px;
+
+	}
+
+}
+
+.ft-24
+{
+	font-size:24px !important;
+}
+
+
+
+
+
+

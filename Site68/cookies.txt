@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.geewinexim.com	TRUE	/	FALSE	1999999999	PHPSESSID	b5246252b67d5c20aac1fc1aabec199d
+
